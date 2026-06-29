@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR3eg011/v1
+canonical_location: https://kanripo.org/bkk/KR3eg011/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 溫病條辨
+  identifiers:
+    krp: KR3eg011
+  tags:
+    kr-categories: KR3eg
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg011.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - seq: 1
+    filename: KR3eg011_001.yaml
+    hash: sha256:9f564c22048bccc18b84ec5f31443e8e679c176a47585f51c8c89aad7e72bc5d
+table_of_contents: []
+hash: sha256:bfaf1a94d32ab96e20ee73eead2fe3efaaae5c388d25781b86ffd761de0bd582
