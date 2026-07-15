@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eg011/v1
 canonical_location: https://kanripo.org/bkk/KR3eg011/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 溫病條辨
   identifiers:
@@ -20,4 +20,4 @@ assets:
     filename: KR3eg011_001.yaml
     hash: sha256:9f564c22048bccc18b84ec5f31443e8e679c176a47585f51c8c89aad7e72bc5d
 table_of_contents: []
-hash: sha256:bfaf1a94d32ab96e20ee73eead2fe3efaaae5c388d25781b86ffd761de0bd582
+hash: sha256:9a2061e5841d98eb2a7eaccb7b5ab98d6a43488d000de8071353e65d6a502d2b
